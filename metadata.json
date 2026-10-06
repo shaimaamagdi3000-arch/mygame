@@ -1,0 +1,6 @@
+{
+  "name": "Snakes and Ladder",
+  "description": "Interactive 3D educational Snakes and Ladder board game for classrooms and learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
